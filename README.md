@@ -25,6 +25,10 @@ O objetivo foi simular uma rotina de analista de dados, realizando limpeza, trat
 - As categorias com maior volume de produtos foram `Electronics`, `Home&Kitchen` e `Computers&Accessories`.
 - O rating médio das principais categorias ficou próximo de 4.0, indicando avaliações geralmente positivas.
 
+## Dashboard em Excel
+
+![Dashboard em Excel](amazon_dashboard_excel.png)
+
 ## Tecnologias utilizadas
 
 - Python
